@@ -4,7 +4,7 @@ MyStudentDesk is a web-based Student Management System developed using Python, S
 The application allows users to manage student records through basic CRUD operations.
 
 Live Demo:  
-https://mystudentdesk-dwnerihphf5ctbqh5te9dv.streamlit.app
+https://mystudentdesk-dwnerhiphf5ctbqh5te9dv.streamlit.app/
 
 ---
 
